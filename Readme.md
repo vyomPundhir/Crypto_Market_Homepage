@@ -68,3 +68,6 @@ https://crypto-market-homepage.vercel.app/
 
 > For any kind of feedback, please contact me on my email: vyom.pundhir.prof@gmail.com
 ---
+> [![Live Link](https://img.shields.io/badge/DEPLOYED-LINK-green)](https://crypto-market-homepage.vercel.app/)
+
+---
