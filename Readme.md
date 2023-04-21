@@ -64,6 +64,11 @@ I'm definitely more confident now in creating a webpage similar to this one.
 > Here is the live link of the project:
 https://crypto-market-homepage.vercel.app/
 
+## Project Screenshot
+
+> ![SS](./ss-of-the-project.png)
+---
+
 ## Feedback
 
 > For any kind of feedback, please contact me on my email: vyom.pundhir.prof@gmail.com
